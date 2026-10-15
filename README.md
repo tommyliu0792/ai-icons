@@ -19,3 +19,5 @@ SVGs are served as image resources, not inserted as inline markup. Use self-cont
 ## Sources
 
 - `icons/runware.svg`: unchanged from [Runware/dify-runware, _assets/icon.svg](https://github.com/Runware/dify-runware/blob/main/_assets/icon.svg), Git blob `e8dcd3480e0c8ce67be1ef90edb704e3dd50deb1`, retrieved 2026-10-15. Runware branding belongs to its respective owner; no ownership of third-party logos is claimed.
+
+- `icons/geodd.svg`: unchanged from [Geodd's official website logo](https://geodd.io/logo-geodd.svg), retrieved 2026-10-15. Use `custom:geodd`. Geodd branding belongs to its respective owner.

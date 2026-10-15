@@ -3,6 +3,10 @@
     {
       "id": "runware",
       "label": "Runware"
+    },
+    {
+      "id": "geodd",
+      "label": "Geodd"
     }
   ]
 }

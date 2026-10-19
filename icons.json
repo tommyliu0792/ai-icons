@@ -7,6 +7,10 @@
     {
       "id": "geodd",
       "label": "Geodd"
+    },
+    {
+      "id": "nexllm",
+      "label": "NexLLM"
     }
   ]
 }

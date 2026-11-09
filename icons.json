@@ -11,6 +11,10 @@
     {
       "id": "nexllm",
       "label": "NexLLM"
+    },
+    {
+      "id": "berget",
+      "label": "Berget AI"
     }
   ]
 }
